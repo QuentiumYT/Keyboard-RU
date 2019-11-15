@@ -11,11 +11,11 @@
 
 >#### Russian virtual keyboard which allows to write what you wish in Russian in a text field.
 <br>
-![](https://quentium.fr/programs/Github/Keyboard-RU.gif)
+<p align="center"><img src="https://quentium.fr/programs/Github/Keyboard-RU.gif"></p>
 
 ## 📥 Installation
 
-- Download the source code [here](https://github.com/QuentiumYT/Keyboard-RU/archive/master.zip) and run `Keyboard-RU.pyw` on your computer (you will need socket, platform, psutil, wmi and ctypes modules)
+- Download the source code [here](https://github.com/QuentiumYT/Keyboard-RU/archive/master.zip) and run `Keyboard-RU.pyw` on your computer (no specific module required)
 - Download the 64bits compiled executable [here](https://quentium.fr/download.php?file=Keyboard-RU.exe)!
 - Download the 32bits compiled executable [here](https://quentium.fr/download.php?file=Keyboard-RU-32.exe)!
 
